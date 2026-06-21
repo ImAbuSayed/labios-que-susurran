@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Labios que susurran, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Labios que susurran, Vol. 2** (labios-que-susurran-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T10:10:47.364252 | `v1` | `4afc9e8be48a2484c2affc50f53f7e044f1e53378b2108507daf511939580926` | `e6330a75d26e0d9ac11214cf2919c3c9893bec2b853c1f72b2c49f3e96189484` | `2026-06-21_labios-que-susurran-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

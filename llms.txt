@@ -1,4 +1,4 @@
-# Labios que susurran
+# Labios que susurran, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Labios que susurran |
+| **Title** | Labios que susurran, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-que-susurran/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Labios que susurran](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-que-susurran/) |
+| **Get License** | [License this song: Labios que susurran, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-que-susurran/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus labios que susurran en la oscuridad
+> Me piden que te lleve por toda la ciudad
+> Un beso lento, mami, cero gravedad
+> Esta noche tú y yo somos la única verdad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `4afc9e8be48a2484c2affc50f53f7e044f1e53378b2108507daf511939580926` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
